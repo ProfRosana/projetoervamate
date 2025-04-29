@@ -1,0 +1,13 @@
+{
+  "name": "Erva-Mate App",
+  "short_name": "ErvaMate",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Aplicativo para compra, venda e manejo de erva-mate.",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
